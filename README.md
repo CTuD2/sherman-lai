@@ -53,7 +53,7 @@ etc. This is why pages are nested in folders rather than sitting as flat
 
 ## Content guardrails
 
-Sherman Lai is retired (as of 2023) and the Centre of Integrative Natural
+Sherman Lai is retired (as of 2017) and the Centre of Integrative Natural
 Medicine is no longer operating — the site is a historical/biographical
 record, not an active practice or offer of treatment. Keep that framing
 consistent in any new content: past tense, no implication he is currently
